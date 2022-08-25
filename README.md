@@ -2,7 +2,9 @@
 
 專案網址(佈署至Azure)：
 
-https://meowplanet.lol/Sitter (目前有資料的位置在高雄市前金區 以及 雲林)
+https://meowplanet.lol/Sitter 
+(目前有資料的位置在高雄市前金區 以及 雲林)
+可以利用地圖搜尋至前金區查看保母資料。
 
 可用測試帳號：
 
